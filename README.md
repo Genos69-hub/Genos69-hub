@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Hi There, currently trying to learn GitHub and see what it offers :)
+27 years old IT student from the Netherlands
+Likes Anime, Sports, Working out and playing games
 <!--
 **Genos69-hub/Genos69-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
